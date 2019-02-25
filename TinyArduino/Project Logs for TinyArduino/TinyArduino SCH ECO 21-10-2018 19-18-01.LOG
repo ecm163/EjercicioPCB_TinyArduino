@@ -1,0 +1,2 @@
+Add Pin To Net: Pin=J1-6 Old Net=NetJ1_6 New Net=GND
+Add Pin To Net: Pin=J1-11 Old Net=NetJ1_11 New Net=+5V

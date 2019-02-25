@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TinyArduino.PrjPCB]
+   Generated File[TinyArduino.TXT]
+   Generated File[TinyArduino.LDP]
+   Generated File[TinyArduino.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 18:26:10 On 22/10/2018

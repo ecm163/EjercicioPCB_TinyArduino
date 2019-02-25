@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J1 Old Footprint=HIRO-ZX62R-B-5P_V New Footprint=HIRO-ZX62R-B-5P_V
+Change Component Description : Designator=R5 Old Description=0O 1% New Description=0O 1%
+Change Component Library : Designator=J1 Old Library=MicroUSB.SCHLIB New Library=TinyArduino.SCHLIB
+Change Net Name : Old Net Name=NetD1_1 New Net Name=D-
+Change Net Name : Old Net Name=NetD2_1 New Net Name=D+
